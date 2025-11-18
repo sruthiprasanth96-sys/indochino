@@ -8,20 +8,19 @@
     
 }
 .box1{
-    min-height: 500px;
+    
     text-align: right;
-    /* background-image: url(men-removebg-preview.png); */
-    /* background-position: absolute; */
-    /* background-size: cover; */
-    margin-left: 0px;
+   
+    
 }
+.box1 img{
+    height:400px;
 
 .box2{
     color: white;
     text-align: center;
-    min-height: 500px;
-    min-width: 100%;
-    /* background-color: #e1eef3; */
+
+    
     
 }
 @media(max-width:768px){
@@ -136,6 +135,7 @@
     text-align: center;
     position:relative;
 }
+
 
 
 
