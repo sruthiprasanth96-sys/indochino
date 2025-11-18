@@ -14,7 +14,7 @@
     
 }
 .box1 img{
-    height:400px;
+    height:600px;
 }
 
 .box2{
@@ -29,7 +29,7 @@
         text-align: center;
     }
     .box1 img{
-        height: 200px;
+        height: 250px;
     }
 }
 
@@ -136,6 +136,7 @@
     text-align: center;
     position:relative;
 }
+
 
 
 
