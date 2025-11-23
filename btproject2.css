@@ -1,4 +1,6 @@
-
+section#animate{
+    overflow:hidden;
+}
 /* about */
 .sec2{
     background-color: #43aad3;
@@ -136,6 +138,7 @@
     text-align: center;
     position:relative;
 }
+
 
 
 
